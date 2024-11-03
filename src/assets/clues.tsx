@@ -1,0 +1,28 @@
+export default {
+    "2024": [
+        "sample clue 1",
+        "sample clue 2",
+        "sample clue 3",
+        "sample clue 4",
+        "sample clue 5",
+        "sample clue 6",
+        "sample clue 7",
+        "sample clue 8",
+        "sample clue 9",
+        "sample clue 10",
+        "sample clue 11",
+        "sample clue 12",
+        "sample clue 13",
+        "sample clue 14",
+        "sample clue 15",
+        "sample clue 16",
+        "sample clue 17",
+        "sample clue 18",
+        "sample clue 19",
+        "sample clue 20",
+        "sample clue 21",
+        "sample clue 22",
+        "sample clue 23",
+        "sample clue 24"
+    ],
+}

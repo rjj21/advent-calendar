@@ -12,9 +12,6 @@ const DayClue = ({day, clue}: DayClueProps) => {
     }
 
     const date = new Date()
-    console.log(date)
-    console.log(date.getFullYear())
-    console.log(date.getDate())
 
     const disabled = !(date.getFullYear() > 2024 || date.getDate() > day)
 

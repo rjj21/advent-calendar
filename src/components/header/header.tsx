@@ -1,4 +1,5 @@
 import { Outlet, Link } from "react-router-dom"
+import image from '../../assets/octopus.svg'
 
 const Header = () => {
 
@@ -6,7 +7,9 @@ const Header = () => {
         <>
             <nav className="fixed w-full">
                 <div className="w-full h-14 bg-gray-50 shadow-xl flex items-center justify-center">
-                    <Link to={"/"}>Home</Link>
+                    <Link to={"/"}>
+                        <img src={image} alt='Octopus' height='40' width='40' />
+                    </Link>
                 </div>
             </nav>
         <Outlet/>

@@ -18,13 +18,15 @@ const DayClue = ({day, clue}: DayClueProps) => {
     return (
         <div className="h-40 w-40 m-8 shadow-2xl " onClick={handleClick}>
             {!showClue && 
-                <div className={`h-full w-full ${disabled ? "bg-gray-400": "bg-pink-700"} text-green-100 text-6xl flex items-center justify-center`}>
+                <div className={`h-full w-full bg-pink-700 text-green-100 text-6xl flex items-center justify-center`}>
                     <p>{day + 1}</p>
                 </div>
             }
             {showClue && 
-                <div className="h-full w-full bg-green-100 flex items-center justify-center">
-                    <p>{clue}</p>
+                <div className="h-full w-full bg-green-100 p-3">
+                    <div className="h-full w-full flex justify-center overflow-scroll">
+                        <p>{clue}</p>
+                    </div>
                 </div>
             }
         </div>

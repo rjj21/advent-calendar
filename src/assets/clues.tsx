@@ -5,7 +5,7 @@ export default {
         "23 15 / 24 33 14 24 11 33 / 25 11 45 11 31 42 24 32 11 33 / 24 43 / 41 11 24 14 / 32 11 33 24 / 42 35 35 41 43 / 44 35 / 44 42 11 24 33 / 23 15 24 42 / 22 35 42 43 15 / 44 35 / 14 35 / 24 44 43 / 41 35 35 41 43 / 35 45 44 / 24 33 / 23 15 / 13 42 11 43 43 / 11 33 14 / 54 24 41 15 / 24 44 43 / 11 42 43 15 / 11 33 14 / 33 35 44 / 24 33 / 23 15 / 44 42 11 25 / 35 51 / 23 15 / 44 42 35 35 41 43 ",
         "Ttgkk heaee edsdd rweAM eicno wtrdr ehewe rctio eattf drohu oeses lEhah larce scehr RhAoe uonni snaef seliy ihito aoesu nlnqd ndpua eieer snaae",
         "52qw 5y3 w5q45 9r q gq55o3 d3h57483w 9oe 0oq63e 975 j943 58j3w 5yqh dqh g3 59oe 5y3 58t34w qefqhd3e Qhe 5y3 t9q5w 599i 5y384 dyqhd3 G75 5y384 09w8589h 5y36 d97oe h95 y9oe",
-        "sample clue 6",
+        "A unn tog rhe slirthl twilsh grinid a risochrone Gunis a tagged atth swa mise moatusouno Ubt hewn a grite plate tou Eth strebetia lelf uto Dan hes dha ot elry no het mouthas nojh hamots",
         "sample clue 7",
         "sample clue 8",
         "sample clue 9",

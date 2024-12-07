@@ -6,7 +6,7 @@ export default {
         "Ttgkk heaee edsdd rweAM eicno wtrdr ehewe rctio eattf drohu oeses lEhah larce scehr RhAoe uonni snaef seliy ihito aoesu nlnqd ndpua eieer snaae",
         "52qw 5y3 w5q45 9r q gq55o3 d3h57483w 9oe 0oq63e 975 j943 58j3w 5yqh dqh g3 59oe 5y3 58t34w qefqhd3e Qhe 5y3 t9q5w 599i 5y384 dyqhd3 G75 5y384 09w8589h 5y36 d97oe h95 y9oe",
         "A unn tog rhe slirthl twilsh grinid a risochrone Gunis a tagged atth swa mise moatusouno Ubt hewn a grite plate tou Eth strebetia lelf uto Dan hes dha ot elry no het mouthas nojh hamots",
-        "sample clue 7",
+        "Hjo, hytl Ubttly zplilubukmbumgpn Dpy nshbilu, kb tbzza pu klu Opttls nlrvttlu zlpu Hily dlupnzaluz tpa kplzly Jopmmyl dpyk klpul Olykl rsbnly zlpu Buk klu Mhunlu kly ilybjoapnalu Olsluh luanlolu",
         "sample clue 8",
         "sample clue 9",
         "sample clue 10",

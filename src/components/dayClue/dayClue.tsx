@@ -24,7 +24,7 @@ const DayClue = ({day, clue}: DayClueProps) => {
             }
             {showClue && 
                 <div className="h-full w-full bg-green-100 p-3">
-                    <div className="h-full w-full flex justify-center overflow-scroll">
+                    <div className="h-full w-full flex overflow-scroll">
                         <p>{clue}</p>
                     </div>
                 </div>

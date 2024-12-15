@@ -14,7 +14,7 @@ export default {
         "𐎽𐎢𐏀𐎡𐏀𐏐𐎳𐎡𐎼𐎿𐎫𐏐𐎼𐎹𐎿𐏐𐎢𐎽𐎢𐎢𐎴𐎭𐏐𐎻𐎡𐎾𐏀𐏐𐎸𐎢𐎢𐎫𐎺𐎢𐏀𐏐𐎢𐎴𐏐𐎢𐏐𐎼𐎳𐎫𐏐𐎫𐏃𐎫𐏐𐎩𐎢𐎿𐎫𐏐𐎮𐎡𐎭𐎴𐎫𐏐𐎳𐎾𐎢𐎢𐎫𐎻𐎡𐎴𐏐𐎫𐏃𐎹𐏐𐎿𐎡𐎭𐏐𐎲𐎡𐎾𐎭𐏐𐎡𐎫𐏐𐎲𐎡𐎫𐎫𐎡𐎼𐎿𐏃𐎡𐏐𐏃𐎢𐎡𐎿𐎫𐎡𐎭𐏐𐎢𐏐𐎿𐎻𐎡𐎫𐎫𐎡𐎼𐎲𐎢𐎫𐏐𐎺𐎢𐏀𐏐𐎮𐎡𐎿𐎣𐎺𐎢𐎾𐎡𐎳𐎡𐎡𐎭𐏐𐎳𐎢𐎼𐏐𐎹𐎢𐏀𐎡𐎴𐎥𐏐𐏐𐎢𐏐𐎲𐎢𐎢𐎫",
         ",/a%$ away 9 ! d1d ( ni<t ,on a b1m ( wood t is n s li<t ,9 a nook 2h a ci/]n ,a priz$ loc,n y may le>n ,look c>e;lly ?|< z x's | ( si<t",
         "ittnay ahttay itay evagyay ahttay obxay ehtyay enepoday adnay evohsyay oogday ayay evagyay adnay evobayay upay ehcaerday ehyay adyay enoyay itlay ipknay inay oylnay owdlray ehtyay eesnay awlasyay ahday ohwyay ilftnay emanday obyay uoygnay ayay awsay ecnoyay erehtyay",
-        "sample clue 15",
+        "s ulnoedotol al nasepgiolali nbm e rw ht eeetfmeetfad n hwdinsf  o t lasttcdtentmemhnop sl  ldweo ni  ntwdhseghuh  unih  aeiu wiikga o e naoei oeb ec srcohm",
         "sample clue 16",
         "sample clue 17",
         "sample clue 18",

@@ -16,7 +16,7 @@ export default {
         "ittnay ahttay itay evagyay ahttay obxay ehtyay enepoday adnay evohsyay oogday ayay evagyay adnay evobayay upay ehcaerday ehyay adyay enoyay itlay ipknay inay oylnay owdlray ehtyay eesnay awlasyay ahday ohwyay ilftnay emanday obyay uoygnay ayay awsay ecnoyay erehtyay",
         "s ulnoedotol al nasepgiolali nbm e rw ht eeetfmeetfad n hwdinsf  o t lasttcdtentmemhnop sl  ldweo ni  ntwdhseghuh  unih  aeiu wiikga o e naoei oeb ec srcohm",
         "VGhlcmUgb25jZSB3YXMgYW4gYXR0cmFjdGl2ZSB5b3VuZyBiaW1ibyAKV2hvIHR1cm5lZCB0byBiZSBhIGJpdCBvZiBhIG5pbXBobyAKT25lIGRheSBhdCBwbGF5IHNjaG9vbCAKU2hlIGJyb2tlIHRoZSBjYXJkaW5hbCBydWxlIApBbmQgd2FzIHNwb3R0ZWQgaGF2aW5nIHNleCB0aHJvdWdoIHRoZSByb3VuZCB3aW5kb3cu",
-        "sample clue 17",
+        "8 44 33 777 33 0 9 2 7777 0 2 0 999 666 88 66 4 0 222 2 8 0 9 44 666 0 555 444 55 33 3 0 8 666 0 222 555 444 6 22 0 8 44 33 0 888 33 555 888 33 8 0 33 2 222 44 0 8 444 6 33 0 8 44 2 8 0 44 33 0 3 444 3 0 66 33 2 777 555 999 0 4 666 8 0 8 666 0 8 44 33 0 7 33 555 6 33 8 0 22 88 8 0 8 44 33 0 555 444 4 44 8 7777 0 9 33 66 8 0 22 999 0 2 66 3 0 555 666 55 444 0 333 33 555 555 0 333 777 666 6 0 8 44 33 0 7777 55 999 0 7 33 777 44 2 7 7777 0 44 33 0 7777 44 666 88 555 3 0 44 2 888 33 0 9 666 777 66 0 2 0 7777 2 333 33 8 999 0 44 33 555 6 33 8",
         "sample clue 18",
         "sample clue 19",
         "sample clue 20",

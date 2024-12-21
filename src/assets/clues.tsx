@@ -20,7 +20,7 @@ export default {
         "a la ʁəʃɛʁʃə dy pʁɔʃɛ̃ ʃɔkɔla də lavə lɛkstʁatɛʁestʁə dəve ʃɛʁʃe œ̃ səkʁɛ avɛk œ̃ fõ, blø e de fœj ʒon osi sete tʁe deʁutɑ̃ ʒyska sə kɛl tõb syʁ yn vjɛj aʁmwaʁ",
         "185231184 5820 1315186 18582015141 2057 1520 52218 20192110 1212923 58 11312 209 2057 1520 25123 1514 1131183 1 1423154 121256 209 181515126 5820 1415 169123 251119516 5820 45161615184 58 20212 5181513 51415 20192110 149 113151411 1520 418 25111811619",
         "Mehrabad International Ouahigouya H Senador Petrônio Portela Nikunau H Tennant Creek Macaé Moyale Lajes Edmond Cané Santa Catalina Ambatondrazaka Burg Feuerstein Coast Guard F Corcoran W São Lourenço Winton Golden Triangle Regional OU Borlange Edward G. Pitka Sr Orléans-Bricy (BA 123) Air Base Senador Petrônio Portela St. Theresa Point Municipal Helsinki Vantaa Twente Winter Haven Municipal – Gilbert Field Tangalooma Dhangarhi D Agropecuária Castanhais Puerto Nare IF Fua’amotu International Tshikapa El Charco Nantucket Memorial Edinburgh Philip Billard Municipal Lakefront Ithaca Tompkins Regional Ascención De Guarayos Roosevelt Municipal Losuia W",
-        "sample clue 21",
+        "ᚲᚢᛖᛖᚾᛋᛚᛁᛖᛏᛖᚾ ᛒᛁᚾᚾᛖ ᛁᚾ ᚾᚨᛋᛃᛟᚾᚨᛚᛖ ᛋᚲᚨᛏ ᛖᚾ ᚨᛚᛚᛖᚷᛖᚨᚱᚱᛖ ᛃᛟᚢᚹᛖ ᛋᛖ ᛁᚾ ᛈᚱᛟᛏᛏᛖ ᚾᛟᚲᚺᛏ ᛗᚨᚱ ᚨᛋ ᛃᛟ ᛁᛏ ᚨᚾᛏᚹᚢᚱᛞ ᚾᛟᚲᚺ ᚾᛖᛏ ᚺᚨᚹᚹᛖ ᛃᛟ ᛗᛟᚨᛏᛏᛖ ᛗᛁᛋᚲᛁᛖᚾ ᚷᛖᚹᛟᚨᚾ ᚹᛁᛖᛏ ᚹᚢᚱᛞᛖ ᛋᛟᚱᚱᛃ ᛞᚨᛏ ᛁᚲ ᛃᛟ ᚢᚾᛞᛖᚱ ᛋᛟᚲᚲᛖ ᛞᚱᚢᚲ ᛋᛖᛏᛏᛖ",
         "sample clue 22",
         "sample clue 23",
         "sample clue 24"

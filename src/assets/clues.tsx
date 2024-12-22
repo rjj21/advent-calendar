@@ -21,7 +21,7 @@ export default {
         "185231184 5820 1315186 18582015141 2057 1520 52218 20192110 1212923 58 11312 209 2057 1520 25123 1514 1131183 1 1423154 121256 209 181515126 5820 1415 169123 251119516 5820 45161615184 58 20212 5181513 51415 20192110 149 113151411 1520 418 25111811619",
         "Mehrabad International Ouahigouya H Senador Petrônio Portela Nikunau H Tennant Creek Macaé Moyale Lajes Edmond Cané Santa Catalina Ambatondrazaka Burg Feuerstein Coast Guard F Corcoran W São Lourenço Winton Golden Triangle Regional OU Borlange Edward G. Pitka Sr Orléans-Bricy (BA 123) Air Base Senador Petrônio Portela St. Theresa Point Municipal Helsinki Vantaa Twente Winter Haven Municipal – Gilbert Field Tangalooma Dhangarhi D Agropecuária Castanhais Puerto Nare IF Fua’amotu International Tshikapa El Charco Nantucket Memorial Edinburgh Philip Billard Municipal Lakefront Ithaca Tompkins Regional Ascención De Guarayos Roosevelt Municipal Losuia W",
         "ᚲᚢᛖᛖᚾᛋᛚᛁᛖᛏᛖᚾ ᛒᛁᚾᚾᛖ ᛁᚾ ᚾᚨᛋᛃᛟᚾᚨᛚᛖ ᛋᚲᚨᛏ ᛖᚾ ᚨᛚᛚᛖᚷᛖᚨᚱᚱᛖ ᛃᛟᚢᚹᛖ ᛋᛖ ᛁᚾ ᛈᚱᛟᛏᛏᛖ ᚾᛟᚲᚺᛏ ᛗᚨᚱ ᚨᛋ ᛃᛟ ᛁᛏ ᚨᚾᛏᚹᚢᚱᛞ ᚾᛟᚲᚺ ᚾᛖᛏ ᚺᚨᚹᚹᛖ ᛃᛟ ᛗᛟᚨᛏᛏᛖ ᛗᛁᛋᚲᛁᛖᚾ ᚷᛖᚹᛟᚨᚾ ᚹᛁᛖᛏ ᚹᚢᚱᛞᛖ ᛋᛟᚱᚱᛃ ᛞᚨᛏ ᛁᚲ ᛃᛟ ᚢᚾᛞᛖᚱ ᛋᛟᚲᚲᛖ ᛞᚱᚢᚲ ᛋᛖᛏᛏᛖ",
-        "sample clue 22",
+        "PO RF MD FL MD GE RG DS ES MD GE NAF BK MC GE BK GE CF RG MGH GE DS BK MT MD FM GE PB BK HS CN RF NE FR RF RG GE CN HS TS LR LR MD FM GE BK HS HS GE RF DB MC GE CN DB CN MD MC GE NAF DB LV RF GE MC RG MT MD GE LV RG NAF MD HS MC NE PO RF MD GE CN HS TS MT CF MD FL GE ES BK MT MD GE CF MGH NE TB DS FM GE MC BK DB FM RU GE PBCA FR RF MGH RU GE RG RF GE NAF RF MGH EU PBSC NE PBCA TB RF RU GE DB LV GE BK CN CN MD BK FL MC GE LV RF BK LV GE MGH RG TS GE DS MD MD FM GE MC RG MT MD GE DS MD NAF GE OG BK HS OG MD MC PD PBSC",
         "sample clue 23",
         "sample clue 24"
     ],

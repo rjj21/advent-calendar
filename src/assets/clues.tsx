@@ -23,6 +23,6 @@ export default {
         "ᚲᚢᛖᛖᚾᛋᛚᛁᛖᛏᛖᚾ ᛒᛁᚾᚾᛖ ᛁᚾ ᚾᚨᛋᛃᛟᚾᚨᛚᛖ ᛋᚲᚨᛏ ᛖᚾ ᚨᛚᛚᛖᚷᛖᚨᚱᚱᛖ ᛃᛟᚢᚹᛖ ᛋᛖ ᛁᚾ ᛈᚱᛟᛏᛏᛖ ᚾᛟᚲᚺᛏ ᛗᚨᚱ ᚨᛋ ᛃᛟ ᛁᛏ ᚨᚾᛏᚹᚢᚱᛞ ᚾᛟᚲᚺ ᚾᛖᛏ ᚺᚨᚹᚹᛖ ᛃᛟ ᛗᛟᚨᛏᛏᛖ ᛗᛁᛋᚲᛁᛖᚾ ᚷᛖᚹᛟᚨᚾ ᚹᛁᛖᛏ ᚹᚢᚱᛞᛖ ᛋᛟᚱᚱᛃ ᛞᚨᛏ ᛁᚲ ᛃᛟ ᚢᚾᛞᛖᚱ ᛋᛟᚲᚲᛖ ᛞᚱᚢᚲ ᛋᛖᛏᛏᛖ",
         "PO RF MD FL MD GE RG DS ES MD GE NAF BK MC GE BK GE CF RG MGH GE DS BK MT MD FM GE PB BK HS CN RF NE FR RF RG GE CN HS TS LR LR MD FM GE BK HS HS GE RF DB MC GE CN DB CN MD MC GE NAF DB LV RF GE MC RG MT MD GE LV RG NAF MD HS MC NE PO RF MD GE CN HS TS MT CF MD FL GE ES BK MT MD GE CF MGH NE TB DS FM GE MC BK DB FM RU GE PBCA FR RF MGH RU GE RG RF GE NAF RF MGH EU PBSC NE PBCA TB RF RU GE DB LV GE BK CN CN MD BK FL MC GE LV RF BK LV GE MGH RG TS GE DS MD MD FM GE MC RG MT MD GE DS MD NAF GE OG BK HS OG MD MC PD PBSC",
         "Svovm lu Gilb dzh grivw lu yvrmt rmxlmhvjfvmgrzo Kzirh zmw Nvmvozfh dviv ylgs hl gvnkviznvmgzo Hsv zyzmwlmvw gsv svilvh Zmw lkvmvw z yrhgil Dsrxs hsv mznvw hlnvgsrmt jfrgv hvou-ivuvivmgrzo",
-        "sample clue 24"
+        "ƒUM₹  ₮₴UM₪€  ₩₴UM  ؋៛€  €⃀₱€₡I؋₺₾¥  £₽U$€₦৳I؋₺  ₸₴I⃀  ₹€₵€£৳؋₡₺€  ₴x؋x₪  ؋  ƒ€؋₮U﷼€  QUI₸€  €₪⃀€₦৳I؋₾  ⃀UM  ₪I₱  UMƒƒ  ₮₴€  ƒ៛UM₸₴  ৳₴€₦  ₴UM₺֏  I₸  ؋₾UMƒ৳  ₺€₪₮  ¥UMU  ⃀€€  ₸₴€  ₭I₦₲₪  ⃀₴I₾₺I₦₲  ₼UM⃀৳  ₸€ރ₹I฿₾€"
     ],
 }

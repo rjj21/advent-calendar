@@ -1,4 +1,6 @@
 import { useState } from "react"
+import image from "../../assets/expandIcon.png"
+import ExpandedClue from "../expandedClue/expandedClue"
 
 type DayClueProps = {
     day: number
@@ -7,6 +9,7 @@ type DayClueProps = {
 
 const DayClue = ({day, clue}: DayClueProps) => {
     const [showClue, setShowClue] = useState<boolean>(false);
+    const [showExpandedClue, setShowExpandedClue] = useState<boolean>(false)
     const handleClick = () => {
         if (!disabled) setShowClue(!showClue)
     }
@@ -23,12 +26,17 @@ const DayClue = ({day, clue}: DayClueProps) => {
                 </div>
             }
             {showClue && 
-                <div className="h-full w-full bg-green-100 p-3">
+                <div className="relative h-full w-full bg-green-100 p-3">
                     <div className="h-full w-full flex overflow-x-hidden break-all">
-                        <p>{clue}</p>
+                        <button className="absolute bottom-2 right-2 p-2" >
+                            <img src={image} alt='expand' height="20" width="20" className="opacity-50" onClick={() => setShowExpandedClue(true)}/>
+                        </button>
+                        <p className="whitespace-pre-line">{clue}</p> 
                     </div>
                 </div>
             }
+            {showExpandedClue ? <ExpandedClue clue={clue} setShowExpandedClue={setShowExpandedClue}/> : ""}
+            
         </div>
     )
 }

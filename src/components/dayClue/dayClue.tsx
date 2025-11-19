@@ -4,10 +4,12 @@ import ExpandedClue from "../expandedClue/expandedClue"
 
 type DayClueProps = {
     day: number
-    clue: string
+    clue: string,
+    year: number,
+    colour?: string
 }
 
-const DayClue = ({day, clue}: DayClueProps) => {
+const DayClue = ({day, clue, year}: DayClueProps) => {
     const [showClue, setShowClue] = useState<boolean>(false);
     const [showExpandedClue, setShowExpandedClue] = useState<boolean>(false)
     const handleClick = () => {
@@ -16,7 +18,7 @@ const DayClue = ({day, clue}: DayClueProps) => {
 
     const date = new Date()
 
-    const disabled = !(date.getFullYear() > 2024 || date.getDate() > day)
+    const disabled = !(date.getFullYear() > year || date.getDate() > day)
 
     return (
         <div className="h-40 w-40 m-8 shadow-2xl " onClick={handleClick}>

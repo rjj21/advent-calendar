@@ -2,13 +2,14 @@
 type ExpandedClueProps = {
     clue: string
     setShowExpandedClue: any
+    colour: string
 }
 
-const ExpandedClue = ({clue, setShowExpandedClue}: ExpandedClueProps) => {
+const ExpandedClue = ({clue, colour, setShowExpandedClue}: ExpandedClueProps) => {
 
     return (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-            <div className="max-h-1/2 w-1/2 bg-green-100 p-3 rounded-2xl">
+            <div className={`max-h-1/2 w-1/2 ${colour} p-3 rounded-2xl`}>
                 <div className="w-full flex overflow-x-hidden break-all">
                     <p className="whitespace-pre-line">{clue}</p>
                     

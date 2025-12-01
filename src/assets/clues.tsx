@@ -26,7 +26,7 @@ export default {
         "ƒUM₹  ₮₴UM₪€  ₩₴UM  ؋៛€  €⃀₱€₡I؋₺₾¥  £₽U$€₦৳I؋₺  \n₸₴I⃀  ₹€₵€£৳؋₡₺€  ₴x؋x₪  ؋  ƒ€؋₮U﷼€  QUI₸€  €₪⃀€₦৳I؋₾  \n⃀UM  ₪I₱  UMƒƒ  ₮₴€  ƒ៛UM₸₴  \n৳₴€₦  ₴UM₺֏  I₸  ؋₾UMƒ৳  \n₺€₪₮  ¥UMU  ⃀€€  ₸₴€  ₭I₦₲₪  ⃀₴I₾₺I₦₲  ₼UM⃀৳  ₸€ރ₹I฿₾€"
     ],
     "2025": [
-        "Clue 1",
+        "Qrprzore svefg oevatf n punyyratr irel fcrpvny \nGvzr gb frnepu sbe n cynpr pbasvqragvny \nJurer bapr jnf oernq \nOhg abj vf cbeg vafgrnq \nGb svaq n gbby gung jvyy or dhvgr rffragvny",
         "Clue 2",
         "Clue 3",
         "Clue 4",

@@ -27,7 +27,7 @@ export default {
     ],
     "2025": [
         "Qrprzore svefg oevatf n punyyratr irel fcrpvny \nGvzr gb frnepu sbe n cynpr pbasvqragvny \nJurer bapr jnf oernq \nOhg abj vf cbeg vafgrnq \nGb svaq n gbby gung jvyy or dhvgr rffragvny",
-        "Clue 2",
+        "2551920518412519016118201451804181231902515210152120020150315124071181750101621262612501231920190",
         "Clue 3",
         "Clue 4",
         "Clue 5",

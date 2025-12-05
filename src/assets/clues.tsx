@@ -30,7 +30,7 @@ export default {
         "2551920518412519016118201451804181231902515210152120020150315124071181750101621262612501231920190",
         "Yoruba Urdu Finnish R Southern Sotho Aragonese Swahili ER Icelandic I Norwegian Nepali Chechen E. Walloon T Chamorro Faroese Kinyarwanda Romanian Ndonga Gujarati Spanish Northern Sami S, Yoruba Uyghur Estonian O Nepali Turkish YA Danish Y.",
         "LarespondoestasokD.Tagojkiujestasmultoblojdeokestasmensogoj.",
-        "Clue 5",
+        "¥¹¶ ²¿ÄÈ¶Ã ºÄ es qµ»²´¶¿Å µÀ¶Ä ¿ÀÅ º¿´½Æµ¶ µº²¸À¿²½Ä",
         "Clue 6",
         "Clue 7",
         "Clue 8",

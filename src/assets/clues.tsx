@@ -33,7 +33,7 @@ export default {
         "¥¹¶ ²¿ÄÈ¶Ã ºÄ es qµ»²´¶¿Å µÀ¶Ä ¿ÀÅ º¿´½Æµ¶ µº²¸À¿²½Ä",
         "00 10/00111 1000/10 111 10 0/111 0010/11 1011/0010 111 001 010/10 0 00 110 0000 1000 111 001 010 000/01 010 0/1010 111 010 010 0 1010 1",
         "RV Fls i nzx gnfdd bllc xajzfdx Gnkx kx nzfc xl ndfd zfd vjfgndf slfcx gl nd.;",
-        "Clue 8",
+        "Næfþ þri ce þone andcwisse",
         "Clue 9",
         "Clue 10",
         "Clue 11",

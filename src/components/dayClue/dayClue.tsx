@@ -1,10 +1,14 @@
 import { useState } from "react"
 import image from "../../assets/expandIcon.png"
 import ExpandedClue from "../expandedClue/expandedClue"
+import { MathJax } from "better-react-mathjax";
 
 type DayClueProps = {
     day: number
-    clue: string,
+    clue: string | {
+        type: string,
+        content: string
+    },
     year: number,
     colour: {
         background: string,
@@ -24,6 +28,7 @@ const DayClue = ({day, clue, year, colour}: DayClueProps) => {
 
     const disabled = !(date.getFullYear() > year || date.getDate() > day)
 
+    const isMathsClue = typeof clue === "object" && clue.type === "maths"
     return (
         <div className="h-40 w-40 m-8 shadow-2xl " onClick={handleClick}>
             {!showClue && 
@@ -33,12 +38,20 @@ const DayClue = ({day, clue, year, colour}: DayClueProps) => {
             }
             {showClue && 
                 <div className={`relative h-full w-full ${colour.highlight} p-3`}>
-                    <div className="h-full w-full flex overflow-x-hidden break-all">
-                        <button className="absolute bottom-2 right-2 p-2" >
-                            <img src={image} alt='expand' height="20" width="20" className="opacity-50" onClick={() => setShowExpandedClue(true)}/>
-                        </button>
-                        <p className="whitespace-pre-line">{clue}</p> 
-                    </div>
+                    <button className="absolute bottom-2 right-2 p-2" >
+                        <img src={image} alt='expand' height="20" width="20" className="opacity-50" onClick={() => setShowExpandedClue(true)}/>
+                    </button>
+                    {
+                        isMathsClue ? (
+                            <div className="h-full w-full overflow-x-auto overflow-y-hidden">
+                                <MathJax>
+                                    {"\\[" + clue.content + "\\]"}
+                                </MathJax>
+                            </div>
+                        ) : <div className="h-full w-full flex overflow-x-hidden break-all">
+                            <p className="whitespace-pre-line">{typeof clue === "string" ? clue : ""}</p> 
+                        </div>
+                    }
                 </div>
             }
             {showExpandedClue ? <ExpandedClue clue={clue} colour={colour.highlight} setShowExpandedClue={setShowExpandedClue}/> : ""}

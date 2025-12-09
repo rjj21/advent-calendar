@@ -34,7 +34,15 @@ export default {
         "00 10/00111 1000/10 111 10 0/111 0010/11 1011/0010 111 001 010/10 0 00 110 0000 1000 111 001 010 000/01 010 0/1010 111 010 010 0 1010 1",
         "RV Fls i nzx gnfdd bllc xajzfdx Gnkx kx nzfc xl ndfd zfd vjfgndf slfcx gl nd.;",
         "Næfþ þri ce þone andcwisse",
-        "Clue 9",
+        {
+            type: "maths",
+            content:  `
+                \\int_0^1 \\frac{d}{dx}(cx^2 + 3cx) dx
+                + \\frac{(2^b - 2(2^{b-1}))\\sin^2 y}{\\cosh z}
+                - g(\\sec^2(\\arctan(1)) - 2)
+                + \\ln(e^c)
+                `
+        },
         "Clue 10",
         "Clue 11",
         "Clue 12",

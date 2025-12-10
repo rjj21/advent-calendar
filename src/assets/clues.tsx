@@ -43,7 +43,7 @@ export default {
                 + \\ln(e^c)
                 `
         },
-        "Clue 10",
+        "AOEU\nAPL\nAD\nSKWRAEU\nSEPBT\nTAOU\nTHU\nAPB\nSUR\nTPROPL\nTKAEU\nTHRAO",
         "Clue 11",
         "Clue 12",
         "Clue 13",

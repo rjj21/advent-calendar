@@ -44,8 +44,8 @@ export default {
                 `
         },
         "AOEU\nAPL\nAD\nSKWRAEU\nSEPBT\nTAOU\nTHU\nAPB\nSUR\nTPROPL\nTKAEU\nTHRAO",
-        "Clue 11",
-        "Clue 12",
+        "Τζ ρζξυζ β. Νπξπ νκβ δαξκβ ζκξβκ εκρμβ τζ πρπκβεθρπυζ  λβμβ υζυσβδαξβ",
+        "᚛ᚔᚅ ᚄᚓᚃᚓᚅ ᚃ ᚈᚑᚋᚑᚏᚏᚑᚃᚄ ᚉᚂᚒᚓ ᚔᚄ ᚐᚇᚔᚐᚉᚓᚅᚈ ᚈᚑ ᚋᚓ᚜",
         "Clue 13",
         "Clue 14",
         "Clue 15",

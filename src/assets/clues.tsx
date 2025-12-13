@@ -37,16 +37,16 @@ export default {
         {
             type: "maths",
             content:  `
-                \\int_0^1 \\frac{d}{dx}(cx^2 + 3cx) dx
+                \\int_{-1}^1 x^2\\frac{c + 3e}{4cx} dx
                 + \\frac{(2^b - 2(2^{b-1}))\\sin^2 y}{\\cosh z}
                 - g(\\sec^2(\\arctan(1)) - 2)
-                + \\ln(e^c)
+                + d(ln(e^3) + ln(e^4))
                 `
         },
         "AOEU\nAPL\nAD\nSKWRAEU\nSEPBT\nTAOU\nTHU\nAPB\nSUR\nTPROPL\nTKAEU\nTHRAO",
         "Τζ ρζξυζ β. Νπξπ νκβ δαξκβ ζκξβκ εκρμβ τζ πρπκβεθρπυζ  λβμβ υζυσβδαξβ",
         "᚛ᚔᚅ ᚄᚓᚃᚓᚅ ᚃ ᚈᚑᚋᚑᚏᚏᚑᚃᚄ ᚉᚂᚒᚓ ᚔᚄ ᚐᚇᚔᚐᚉᚓᚅᚈ ᚈᚑ ᚋᚓ᚜",
-        "Clue 13",
+        "🚣‍♀️🏋️‍♀️",
         "Clue 14",
         "Clue 15",
         "Clue 16",

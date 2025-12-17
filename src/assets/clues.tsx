@@ -51,7 +51,7 @@ export default {
         "Eeteir irhbne tirote hnerhe",
         ",at l1/ \"o ( \"d #ad's answ}'s corn}s is 9correct",
         "zài dì wǔ tiān hé dì bā tiān de dá àn zhī jiān",
-        "Clue 18",
+        "ˈɪn ʃpˈaltə ˈeː. ˈɪç bˈɪn dˈiː ˈa͡ɪnt͡sɪɡə rˈɪçtɪɡə ˈantvɔɾt ˈɪn mˈa͡ɪnɜ t͡sˈa͡ɪlə.",
         "Clue 19",
         "Clue 20",
         "Clue 21",

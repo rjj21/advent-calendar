@@ -53,7 +53,7 @@ export default {
         "zài dì wǔ tiān hé dì bā tiān de dá àn zhī jiān",
         "ˈɪn ʃpˈaltə ˈeː. ˈɪç bˈɪn dˈiː ˈa͡ɪnt͡sɪɡə rˈɪçtɪɡə ˈantvɔɾt ˈɪn mˈa͡ɪnɜ t͡sˈa͡ɪlə.",
         "ᏦᎢ ᏚᏅᏏᏴᎢ ᏚᏳᎦᏔ",
-        "Clue 20",
+        "rnaevahosocemewwl··avteu··sihrmnsefrsinthweeandro",
         "Clue 21",
         "Clue 22",
         "Clue 23",

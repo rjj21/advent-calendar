@@ -52,7 +52,7 @@ export default {
         ",at l1/ \"o ( \"d #ad's answ}'s corn}s is 9correct",
         "zài dì wǔ tiān hé dì bā tiān de dá àn zhī jiān",
         "ˈɪn ʃpˈaltə ˈeː. ˈɪç bˈɪn dˈiː ˈa͡ɪnt͡sɪɡə rˈɪçtɪɡə ˈantvɔɾt ˈɪn mˈa͡ɪnɜ t͡sˈa͡ɪlə.",
-        "Clue 19",
+        "ᏦᎢ ᏚᏅᏏᏴᎢ ᏚᏳᎦᏔ",
         "Clue 20",
         "Clue 21",
         "Clue 22",

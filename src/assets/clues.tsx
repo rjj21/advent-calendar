@@ -54,9 +54,9 @@ export default {
         "ˈɪn ʃpˈaltə ˈeː. ˈɪç bˈɪn dˈiː ˈa͡ɪnt͡sɪɡə rˈɪçtɪɡə ˈantvɔɾt ˈɪn mˈa͡ɪnɜ t͡sˈa͡ɪlə.",
         "ᏦᎢ ᏚᏅᏏᏴᎢ ᏚᏳᎦᏔ",
         "rnaevahosocemewwl··avteu··sihrmnsefrsinthweeandro",
-        "Clue 21",
-        "Clue 22",
-        "Clue 23",
+        "42345234331511331442345221344542231151151133435215424324334423154311321513343145323343",
+        "MGA ERN MRU GMD STN KHR MRU KRW MRU XOF GHS MRU TRY VUV AZN NGN CRC",
+        "ᴚoʍ ㄥ ɔouʇɐᴉus ɐ ɹnu oɟ ǝxɐɔʇןʎ Ɛ ɔoɹɹǝɔʇ ɐusʍǝɹs",
         "Clue 24",
     ]
 }
